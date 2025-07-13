@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.API\\OnlineEdu.API.csproj": {}
+    "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.API\\OnlineEdu.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.API\\OnlineEdu.API.csproj": {
+    "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.API\\OnlineEdu.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.API\\OnlineEdu.API.csproj",
+        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.API\\OnlineEdu.API.csproj",
         "projectName": "OnlineEdu.API",
-        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.API\\OnlineEdu.API.csproj",
+        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.API\\OnlineEdu.API.csproj",
         "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.API\\obj\\",
+        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.Business\\OnlineEdu.Business.csproj": {
-                "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.Business\\OnlineEdu.Business.csproj"
+              "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.Business\\OnlineEdu.Business.csproj": {
+                "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.Business\\OnlineEdu.Business.csproj"
               },
-              "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.DTO\\OnlineEdu.DTO.csproj": {
-                "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.DTO\\OnlineEdu.DTO.csproj"
+              "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.DTO\\OnlineEdu.DTO.csproj": {
+                "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.DTO\\OnlineEdu.DTO.csproj"
               }
             }
           }
@@ -51,7 +51,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -91,18 +91,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.Business\\OnlineEdu.Business.csproj": {
+    "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.Business\\OnlineEdu.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.Business\\OnlineEdu.Business.csproj",
+        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.Business\\OnlineEdu.Business.csproj",
         "projectName": "OnlineEdu.Business",
-        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.Business\\OnlineEdu.Business.csproj",
+        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.Business\\OnlineEdu.Business.csproj",
         "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.Business\\obj\\",
+        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -123,8 +123,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj"
+              "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj"
               }
             }
           }
@@ -139,7 +139,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -160,18 +160,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj": {
+    "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj",
         "projectName": "OnlineEdu.DataAccess",
-        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj",
+        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj",
         "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -192,8 +192,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.Entities\\OnlineEdu.Entities.csproj": {
-                "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.Entities\\OnlineEdu.Entities.csproj"
+              "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.Entities\\OnlineEdu.Entities.csproj": {
+                "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.Entities\\OnlineEdu.Entities.csproj"
               }
             }
           }
@@ -208,7 +208,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -229,18 +229,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.DTO\\OnlineEdu.DTO.csproj": {
+    "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.DTO\\OnlineEdu.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.DTO\\OnlineEdu.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.DTO\\OnlineEdu.DTO.csproj",
         "projectName": "OnlineEdu.DTO",
-        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.DTO\\OnlineEdu.DTO.csproj",
+        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.DTO\\OnlineEdu.DTO.csproj",
         "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.DTO\\obj\\",
+        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -261,8 +261,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.Entities\\OnlineEdu.Entities.csproj": {
-                "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.Entities\\OnlineEdu.Entities.csproj"
+              "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.Entities\\OnlineEdu.Entities.csproj": {
+                "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.Entities\\OnlineEdu.Entities.csproj"
               }
             }
           }
@@ -277,7 +277,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -298,18 +298,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.Entities\\OnlineEdu.Entities.csproj": {
+    "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.Entities\\OnlineEdu.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.Entities\\OnlineEdu.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.Entities\\OnlineEdu.Entities.csproj",
         "projectName": "OnlineEdu.Entities",
-        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.Entities\\OnlineEdu.Entities.csproj",
+        "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.Entities\\OnlineEdu.Entities.csproj",
         "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.Entities\\obj\\",
+        "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -342,7 +342,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -385,7 +385,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

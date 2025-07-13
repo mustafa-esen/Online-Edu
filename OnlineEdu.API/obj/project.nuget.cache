@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m0PK5q7S7rg=",
+  "dgSpecHash": "kULdw43tAPg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.API\\OnlineEdu.API.csproj",
+  "projectFilePath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.API\\OnlineEdu.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\musta\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\musta\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

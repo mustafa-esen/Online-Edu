@@ -1,0 +1,27 @@
+# Build çıktıları
+bin/
+obj/
+
+# Visual Studio cache ve config
+.vs/
+*.user
+*.suo
+
+# Rider/JetBrains
+.idea/
+
+# Yaygın temp dosyaları
+*.log
+*.tmp
+*.bak
+
+# Publish çıktıları
+*.publish/
+
+# Paketler
+*.nupkg
+packages/
+
+# Windows ve sistem dosyaları
+Thumbs.db
+desktop.ini

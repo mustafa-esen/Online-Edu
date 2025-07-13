@@ -2833,11 +2833,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.DTO\\OnlineEdu.DTO.csproj",
+      "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.DTO\\OnlineEdu.DTO.csproj",
       "projectName": "OnlineEdu.DTO",
-      "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.DTO\\OnlineEdu.DTO.csproj",
+      "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.DTO\\OnlineEdu.DTO.csproj",
       "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.DTO\\obj\\",
+      "outputPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2858,8 +2858,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.Entities\\OnlineEdu.Entities.csproj": {
-              "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\OnlineEdu\\OnlineEdu.Entities\\OnlineEdu.Entities.csproj"
+            "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.Entities\\OnlineEdu.Entities.csproj": {
+              "projectPath": "C:\\Users\\musta\\OneDrive\\Masaüstü\\backend\\OnlineEdu\\OnlineEdu.Entities\\OnlineEdu.Entities.csproj"
             }
           }
         }
@@ -2874,7 +2874,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -2895,7 +2895,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
